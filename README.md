@@ -18,11 +18,11 @@
 Then right click any file/folder, click sendto, and you can find the name of those cmd files. Go for it!
 ##Screenshots of a couple of above mentioned programs :
 ##Open Wiki Page :
-![Screenshot of the output](https://github.com/MazahirHaroon/Jumbled/blob/master/OpenWikiPage1.png)
+![Screenshot of the output](https://github.com/MazahirHaroon/Send-To-Features/blob/master/OpenWikiPage1.png)
 ##Output :
-![Screenshot of the output](https://github.com/MazahirHaroon/Jumbled/blob/master/OpenWikiPage2.png)
+![Screenshot of the output](https://github.com/MazahirHaroon/Send-To-Features/blob/master/OpenWikiPage2.png)
 
 ##Open IMDB Page : 
-![Screenshot of the output](https://github.com/MazahirHaroon/Jumbled/blob/master/OpenIMDBPage1.png)
+![Screenshot of the output](https://github.com/MazahirHaroon/Send-To-Features/blob/master/OpenIMDBPage1.png)
 ##Output :
-![Screenshot of the output](https://github.com/MazahirHaroon/Jumbled/blob/master/OpenIMDBPage2.png)
+![Screenshot of the output](https://github.com/MazahirHaroon/Send-To-Features/blob/master/OpenIMDBPage2.png)
