@@ -1,7 +1,6 @@
 # Send-To-Features
-Righ Click FILE/FOLDER
+#Right Click FILE/FOLDER ,Send to : 
 
-Send to :  
           ##File/Folder :
                Web Search the name of the file/folder (Folder :Python)
                Open Wiki Page related to that file/folder (Folder :Python)
