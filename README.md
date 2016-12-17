@@ -1,13 +1,13 @@
 # Send-To-Features
 #Right Click FILE/FOLDER ,Send to : 
 
-          ##File/Folder :
+          File/Folder :
                Web Search the name of the file/folder (Folder :Python)
                Open Wiki Page related to that file/folder (Folder :Python)
                Get Single Movie File/Folder Details (Folder :Python)  
                Open IMDB page of the single movie File/Folder (Folder :Python)
 
-          ##Folder : 
+          Folder : 
               Get Details of all movie in the given folder 
                    In Text Box (Folder :Python)
                    In Tabular format on Browser (Folder : PHP)
