@@ -1,5 +1,5 @@
 # Send-To-Features
-#Right Click FILE/FOLDER ,Send to : 
+## Right Click FILE/FOLDER ,Send to : 
 
           File/Folder :
                Web Search the name of the file/folder (Folder :Python)
@@ -11,18 +11,19 @@
               Get Details of all movie in the given folder 
                    In Text Box (Folder :Python)
                    In Tabular format on Browser (Folder : PHP)
-#Steps to Use :
- Copy .py file to yor Python Folder
- Copy .cmd file to your sendto folder in Windows (could be accessed by typing shell:sendto in addressbar)
+## Steps to Use :
+ Copy `.py` file to your Python Folder
+ Copy `.cmd` file to your sendto folder in Windows (could be accessed by typing `shell:sendto` in addressbar)
 
 Then right click any file/folder, click sendto, and you can find the name of those cmd files. Go for it!
-##Screenshots of a couple of above mentioned programs :
-##Open Wiki Page :
+
+### Screenshots of a couple of above mentioned programs :
+### Open Wiki Page :
 ![Screenshot of the output](https://github.com/MazahirHaroon/Send-To-Features/blob/master/OpenWikiPage1.png)
-##Output :
+### Output :
 ![Screenshot of the output](https://github.com/MazahirHaroon/Send-To-Features/blob/master/OpenWikiPage2.png)
 
-##Open IMDB Page : 
+### Open IMDB Page : 
 ![Screenshot of the output](https://github.com/MazahirHaroon/Send-To-Features/blob/master/OpenIMDBPage1.png)
-##Output :
+## Output :
 ![Screenshot of the output](https://github.com/MazahirHaroon/Send-To-Features/blob/master/OpenIMDBPage2.png)
